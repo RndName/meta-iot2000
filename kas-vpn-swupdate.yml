@@ -1,0 +1,6 @@
+header:
+  version: 2
+  includes:
+    - kas-vpn.yml
+
+target: iot2000-update-image
